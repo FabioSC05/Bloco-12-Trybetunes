@@ -1,0 +1,16 @@
+.login-header {
+  background-color: green;
+  font-size: 20px;
+  height: 100px;
+}
+
+.login-links {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 10px;
+}
+
+.login-name {
+  color: white;
+  text-align: center;
+}

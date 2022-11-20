@@ -1,0 +1,13 @@
+.album-order {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.ab-name {
+  font-size: 30px;
+}
+
+.ab-artist {
+  font-size: 20px;
+}
